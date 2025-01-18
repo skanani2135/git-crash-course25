@@ -3,9 +3,4 @@ Line 2
 Line 3
 Line 21
 Line 31
-Line 32
-Line 33
-Line 34
-Line 7
-Line 8
-Line 7
+
